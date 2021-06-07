@@ -9,5 +9,3 @@ to filter out unwanted trigrams and zero in on the Invoice Number. This approach
 to identify other fields of interest such as Total amount, Due date, Order Number, Order date Etc. 
 Identifying addresses will not be possible with this script.
 
-Invoice data is hard to come by, if anyone has access to such datasets please let me 
-know in comments.
